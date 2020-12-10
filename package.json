@@ -1,0 +1,8 @@
+{
+  "name": "graphql-stydy",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Mattakushii/graphql.git",
+  "author": "Maxim Vahtel <maxim.vahtel@amvonet.com>",
+  "license": "MIT"
+}
